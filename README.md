@@ -46,7 +46,7 @@ Installation
 
 	1.	Clone the Repository:
 
-git clone https://github.com/chaoun.chouaib/amazon-reviews-outlier-detection.git
+git clone https://github.com/ChaounChouaib/Amazon_reviews_outliers_detection
 cd amazon-reviews-outlier-detection
 
 
